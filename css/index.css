@@ -4,8 +4,8 @@
     font-family: "MyNewFont";
 }
 @font-face {
-    font-family: 'MyNewFont';   /*字体名称*/
-    src: url('../font/gillsans.ttf');       /*字体源文件*/
+    font-family: 'MyNewFont'; 
+    src: url('../font/gillsans.ttf');      
 }
 .container{
     height: 741px;
